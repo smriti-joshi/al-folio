@@ -2,23 +2,24 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Computer Vision Researcher | Master Student in IPCV | Master in Physics
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Bordeaux, France</p>
+
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+<font size="-1"> I am a student of Erasmus Mundus Joint Master Degree in Image Processing and Computer Vision organized jointly by  UBx Bordeaux, UAM Madrid and PPKE-ITK Budapest. I also hold a Master(Hons.) in Physics from BITS Pilani, India. 
+I am looking for participating in challenging projects in the domain of computer vision in doctoral and research positions starting Summer 2021. <br>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Currently, I am working towards my master thesis under the supervision Dr. Donglai Wei and Dr. Snow Wang in Lichtman Lab, Harvard SEAS in the domain of connectomics. Previously, I have 
+been fortunate to intern with Prof. Majdi Khoudeir, XLIM Laboratory, France and Dr. J.L Raheja, CSIR-CEERI, India. <br>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My resume and link to online profiles can be found on the website. Please feel free to reach me via provided links for information and potential collaborations.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

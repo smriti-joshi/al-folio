@@ -1,25 +1,26 @@
 /*******************************************************************************
  * Themes
  ******************************************************************************/
- 
-:root {
-  --global-bg-color: #{$white-color};
-  --global-text-color: #{$black-color};
-  --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$light-purple-color};
-  --global-footer-bg-color: #{$grey-color-dark};
-  --global-footer-text-color: #{$grey-color-light};
-  --global-footer-link-color: #{$white-color};
-  --global-icon-color: #{$grey-color-dark};
 
-  .fa-sun {
-    display : none;
-  }
-  .fa-moon {
-    padding-left: 10px;
-    padding-top: 12px;
-    display : block;
-  }
+:root {
+    --global-bg-color: #{$white-color};
+    --global-text-color: #{$black-color};
+    --global-theme-color: #{$orange-color};
+    --global-hover-color: #fed8b1;
+    --global-footer-bg-color: #{$grey-color-dark};
+    --global-footer-text-color: #{$grey-color-light};
+    --global-footer-link-color: #{$white-color};
+    --global-icon-color: #{$grey-color-dark};
+
+    .fa-sun {
+        display: none;
+    }
+
+    .fa-moon {
+        padding-left: 10px;
+        padding-top: 12px;
+        display: block;
+    }
 }
 
 html[data-theme='dark'] {
