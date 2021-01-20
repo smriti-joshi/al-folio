@@ -6,11 +6,11 @@
     --global-bg-color: #{$white-color};
     --global-text-color: #{$black-color};
     --global-theme-color: #{$orange-color};
-    --global-hover-color: #fed8b1;
+    --global-hover-color: #fed8b1; // Light orange colour
     --global-footer-bg-color: #{$grey-color-dark};
     --global-footer-text-color: #{$grey-color-light};
     --global-footer-link-color: #{$white-color};
-    --global-icon-color: #{$grey-color-dark};
+    --global-icon-color: #cc7000; //Dark Orange colour
 
     .fa-sun {
         display: none;
@@ -24,21 +24,22 @@
 }
 
 html[data-theme='dark'] {
-  --global-bg-color: #{$grey-color-dark};
-  --global-text-color: #{$grey-color-light};
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$light-cyan-color};
-  --global-footer-bg-color: #{$grey-color-light};
-  --global-footer-text-color: #{$grey-color-dark};
-  --global-footer-link-color: #{$black-color};
-  --global-icon-color: navajowhite;
+    --global-bg-color: #{$grey-color-dark};
+    --global-text-color: #{$grey-color-light};
+    --global-theme-color: #{$cyan-color};
+    --global-hover-color: #{$light-cyan-color};
+    --global-footer-bg-color: #{$grey-color-light};
+    --global-footer-text-color: #{$grey-color-dark};
+    --global-footer-link-color: #{$black-color};
+    --global-icon-color: #{$light-cyan-color};
 
-  .fa-sun {
-    padding-left: 10px;
-    padding-top: 12px;
-    display : block;
-  }
-  .fa-moon {
-    display : none;
-  }
+    .fa-sun {
+        padding-left: 10px;
+        padding-top: 12px;
+        display: block;
+    }
+
+    .fa-moon {
+        display: none;
+    }
 }
