@@ -4,14 +4,13 @@
 
 :root {
     --global-bg-color: #{$white-color};
-    --global-text-color: #{$black-color};
+    --global-text-color: #{$grey-color-dark};
     --global-theme-color: #{$orange-color};
     --global-hover-color: #fed8b1; // Light orange colour
     --global-footer-bg-color: #{$grey-color-dark};
     --global-footer-text-color: #{$grey-color-light};
     --global-footer-link-color: #{$white-color};
     --global-icon-color: #cc7000; //Dark Orange colour
-
     .fa-sun {
         display: none;
     }

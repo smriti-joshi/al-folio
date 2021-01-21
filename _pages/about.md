@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <b> Computer Vision Researcher | Master Student in IPCV | Master in Physics </b>
+description: 
 
 profile:
   align: right
@@ -22,7 +22,7 @@ mark {
 }
 </style>
 
-<font size= "-1">I am a student of Erasmus Mundus Joint Master Degree in <mark>Image Processing and Computer Vision</mark> organized jointly by  UBx Bordeaux, UAM Madrid and PPKE-ITK Budapest. I also hold a Master(Hons.) in <mark> Physics</mark>  from BITS Pilani, India. 
+I am a student of Erasmus Mundus Joint Master Degree in <mark>Image Processing and Computer Vision</mark> organized jointly by  UBx Bordeaux, UAM Madrid and PPKE-ITK Budapest. I also hold a Master(Hons.) in <mark> Physics</mark>  from BITS Pilani, India. 
 I am looking for participating in challenging projects in the domain of computer vision in <mark>doctoral and research positions</mark>  starting Summer 2021. <br><br>
 
 Currently, I am working towards my master thesis under the supervision <mark>Dr. Donglai Wei</mark>  in Lichtman Lab, Harvard SEAS in the domain of connectomics. Previously, I have 

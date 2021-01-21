@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: More projects can be found on github!
 nav: true
 ---
 
@@ -11,11 +11,6 @@ nav: true
   {% assign sorted_projects = site.projects | sort: "importance" %}
   {% for project in sorted_projects %}
   <div class="grid-item">
-    {% if project.redirect %}
-    <a href="{{ project.redirect }}" target="_blank">
-    {% else %}
-    <a href="{{ project.url | relative_url }}">
-    {% endif %}
       <div class="card hoverable">
         {% if project.img %}
         <img src="{{ project.img | relative_url }}" alt="project thumbnail">
@@ -40,8 +35,8 @@ nav: true
           </div>
         </div>
       </div>
-    </a>
   </div>
+
 {% endfor %}
 
 </div>
